@@ -1,2 +1,2 @@
 # blitz-research
-Sometimes answers are hidden in the past.
+Numbers sometimes speak.
